@@ -33,5 +33,4 @@
 <details>
 <summary>Akshay's coding story</summary>
 ```
-# My Coding Journey
-Once upon a time in the realm of coding, there lived a diligent developer named Akshay. He embarked on an exciting journey to build a powerful web application using the MERN stack. With each line of code, he weaved a story of seamless user experiences and captivating designs.
+My love for technology began when I participated in IIT techfest and gained a profound understanding of programming. I started my coding journey as a passionate web developer and designer, eager to solve real-life problems and create captivating visual experiences. Each day, I delve into learning new technologies and techniques, embracing the thrill of constant growth. Coding empowers me to turn imagination into reality, and the joy it brings reaffirms my love for this creative and ever-evolving field.
