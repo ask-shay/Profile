@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Akshay Shelar
+# 👋 Hi there, I’m Akshay Shelar
 -  I enjoy creating engaging and user-friendly digital experiences.
 
--  
+  
 <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=ask-shay&show_icons=true&theme=radical" >
 <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ask-shay&layout=compact" />
 
