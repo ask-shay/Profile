@@ -1,8 +1,9 @@
 
 
 # 👋 Hi there, I’m Akshay Shelar
- I'm [Akshay Shelar](https://ask-shay.github.io)! , a full-stack web developer with a passion for code, visual design, and interaction. I enjoy creating engaging and user-friendly digital experiences. 
+ I'm [Akshay Shelar](https://ask-shay.github.io)!, a self-taught full-stack web developer on a mission to solve real-life problems through code. I thrive on building projects from scratch, crafting unique solutions that make a positive impact. Let's connect and build something amazing together! 
 
+- Reach me on : 7akshayshelar@gmail.com
 Akshay's Coding Story
   
 <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=ask-shay&show_icons=true&theme=radical" >
