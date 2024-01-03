@@ -1,7 +1,7 @@
 
 
 # 👋 Hi there, I’m Akshay Shelar
-#### I'm [Akshay Shelar](https://ask-shay.github.io)!, a full-stack web developer on a mission to solve real-life problems through code. I thrive on building projects from scratch, crafting unique solutions that make a positive impact. Let's connect and build something amazing together!
+#### I'm [Akshay Shelar](https://ask-shay.github.io)!, a Full Stack Web Developer on a mission to solve real-life problems through code. I thrive on building projects from scratch, crafting unique solutions that make a positive impact. Let's connect and build something amazing together!
 <br />
  
 - Embracing the art of code craftsmanship.
