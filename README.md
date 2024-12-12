@@ -1,7 +1,7 @@
 
 
 # 👋 Hi there, I’m Akshay Shelar
-#### I'm [Akshay Shelar](https://ask-shay.github.io)!, a Full Stack Web Developer on a mission to solve real-life problems through code. I thrive on building dynamic and scalable web solutions with a specialization in the MERN stack and a strong foundation in project management. Let's connect and build something amazing together!
+ I'm [Akshay Shelar](https://ask-shay.github.io)!, a Full Stack Web Developer on a mission to solve real-life problems through code. I thrive on building dynamic and scalable web solutions with a specialization in the MERN stack and a strong foundation in project management. Let's connect and build something amazing together!
 <br />
  
 - Embracing the art of code craftsmanship.
